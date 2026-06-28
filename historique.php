@@ -191,4 +191,3 @@ include 'includes/header.php';
 // Inclut le pied de page du site
 include 'includes/footer.php';
 ?>
-```
